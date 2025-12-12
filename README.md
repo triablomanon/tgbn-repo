@@ -1,6 +1,6 @@
 # CS224W Project: Graph Models for Predicting Future User Preferences in Music Genres
 
-This repository contains the code for our CS224W project. You can find the associated Medium story here: ADD LINK.
+This repository contains the code for our CS224W project. You can find the associated Medium story here: https://medium.com/@antoine.maechler/predicting-users-music-tastes-with-temporal-graph-neural-networks-8e7ab76ed0a4
 
 In this project, we aim to improve temporal user–item interaction prediction, a common problem in recommender systems that are widely used by companies today, for example in the music industry. These systems must adapt to users' evolving listening patterns, taking into account both long-term preferences and recent interactions. We focus on predicting future music genre preferences of users based on their temporal listening behavior.
 
