@@ -31,4 +31,4 @@ All notebooks in this repository are designed to run on Google Colab, which we u
 
 For an overview of the project and a discussion of the models, please refer to the accompanying Medium story.
 
-Guillaume Fevrier
+Guillaume Fevrier, Antoine Maechler, Thomas Sarda
