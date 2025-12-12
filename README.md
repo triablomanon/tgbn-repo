@@ -23,7 +23,7 @@ This repository is structured into the following folders:
 - `Baselines`: Code for the Moving Average (MA) and GCN baseline models
 - `DyGFormer`: Implementation of the DyGFormer model with MA features
 - `TGN`: Code for all models derived from or built on top of TGN
-- `Shallow embedding initialization`: TO ADD
+- `Shallow embedding initialization`: Unsuccessful attempt to create a new non-random initialization using shallow embeddings on the genre graph.
 
 ## Running the code
 
