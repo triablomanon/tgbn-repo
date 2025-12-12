@@ -30,3 +30,5 @@ This repository is structured into the following folders:
 All notebooks in this repository are designed to run on Google Colab, which we used for all experiments. Training temporal graph models on the full graph is computationally expensive: TGN with MA features takes approximately 13 hours for 50 epochs on a T4 GPU in Colab.
 
 For an overview of the project and a discussion of the models, please refer to the accompanying Medium story.
+
+Guillaume Fevrier
